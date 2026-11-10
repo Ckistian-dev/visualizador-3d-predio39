@@ -1,4 +1,4 @@
-# Visualizador 3D BIM Interativo - Esquadrias Prédio 39
+# Visualizador 3D BIM Interativo - Serralheria Prédio 39
 
 Dallago Construtora - Obra 92 COPASUL (Naviraí/MS)
 
